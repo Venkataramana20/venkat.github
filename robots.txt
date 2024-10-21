@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://venkataramana-t.com/sitemap_index.xml
